@@ -10,8 +10,8 @@ Support Engineer at [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icon
 
 
 
-[![Julio's Github Stats](https://github-readme-stats.vercel.app/api?username=VltraHeaven&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VltraHeaven&theme=dracula&hide=javascript,html,css&langs_count=8&layout=compact)
+[![Julio's Github Stats](https://github-readme-stats.vercel.app/api?username=VltraHeaven&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VltraHeaven&theme=nightowl&hide=javascript,html,css&langs_count=8&layout=compact)
 
 <!--
 **VltraHeaven/VltraHeaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
